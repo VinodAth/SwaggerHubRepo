@@ -2,7 +2,7 @@
   "swagger" : "2.0",
   "info" : {
     "version" : "1.0",
-    "title" : "Dash API 6"
+    "title" : "Dash API 7"
   },
   "host" : "api.realogyfg.com",
   "basePath" : "/dashapi",
