@@ -82,7 +82,7 @@
         }, {
           "name" : "categoryName",
           "in" : "query",
-          "description" : "This parameter represents the Category Name for which the code values need to be retrieved",
+          "description" : "This parameter represents the Category Name for which the code values need to be retrieved.",
           "required" : true,
           "type" : "string"
         } ],
