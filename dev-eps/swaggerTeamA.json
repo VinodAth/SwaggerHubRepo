@@ -45,7 +45,7 @@
       "get" : {
         "tags" : [ "Batches" ],
         "summary" : "Batches_Get",
-        "description" : "<remarks>\r\n  <input type=\"button\" value=\"Show/Hide\" onclick=\"$('#GETBATCH').toggle();\" />\r\n  <div id=\"GETBATCH\">\r\n    <ul>\r\n      <li>This method will be used to get the status of the submitted entities for a given batch by supplying the batch id</li>\r\n    </ul>\r\n    <div class=\"businessRule\">\r\n      <br />\r\n      <b>\r\n        <u>Business Rules:</u>\r\n      </b>\r\n      <ol>\r\n        <li>If Batch ID supplied does not exists in our system, API will return �HTTP 404 - Not Found� status code</li>\r\n      </ol>\r\n    </div>\r\n  </div>\r\n</remarks>",
+        "description" : "<remarks>\r\n  <input type=\"button\" value=\"Show/Hide\" onclick=\"$('#GETBATCH').toggle();\" />\r\n  <div id=\"GETBATCH\">\r\n    <ul>\r\n      <li>This method will be used to get the status of the submitted entities for a given batch by supplying the batch id</li>\r\n    </ul>\r\n    <div class=\"businessRule\">\r\n      <br />\r\n      <b>\r\n        <u>Business Rules:</u>\r\n      </b>\r\n      <ol>\r\n        <li>If Batch ID supplied does not exists in our system, API will return �HTTP 404 - Not Found� tatus code</li>\r\n      </ol>\r\n    </div>\r\n  </div>\r\n</remarks>",
         "operationId" : "Batches_Get",
         "produces" : [ "application/vnd.realogyfg.v1+json" ],
         "parameters" : [ {
