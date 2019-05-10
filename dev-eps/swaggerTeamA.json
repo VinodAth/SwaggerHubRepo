@@ -24,7 +24,7 @@
         "parameters" : [ {
           "name" : "entityType",
           "in" : "query",
-          "description" : "This parameter represents the Entity Type for which the batch file is being submitted. It can be Company, Office, OfficeMarketing, CompanyStaff, Team, ResidentialSaleListing, CommercialSaleListing, ResidentialRentalListing, SaleTransaction and OtherIncomeTransaction",
+          "description" : "This parameter represents the Entity Type for which the batch file is being submitted. It can be Company, Office, OfficeMarketing, CompanyStaff, Team, ResidentialSaleListing, CommercialSaleListing, ResidentialRentalListing, SaleTransaction and OtherIncomeTransaction.",
           "required" : true,
           "type" : "string"
         }, {
